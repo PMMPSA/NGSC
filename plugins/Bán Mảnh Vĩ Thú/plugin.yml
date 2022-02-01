@@ -1,0 +1,12 @@
+---
+name: BanManhViThu
+author: NguyenDongQuy
+api:
+- 3.0.0
+version: 1.0
+main: BMVT\Main
+commands:
+ manh:
+  description: "Hệ thống bán mảnh Vĩ Thú"
+  default: true
+...

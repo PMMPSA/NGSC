@@ -1,0 +1,8 @@
+---
+name: NGVS_DCK
+author: Nguyen_Dong_Quy_edit_NQC
+api:
+- 3.0.0
+version: 1.0
+main: DCK\Main
+...

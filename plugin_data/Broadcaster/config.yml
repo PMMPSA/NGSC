@@ -1,0 +1,58 @@
+---
+# Available tags for broadcast messages, popups and titles:
+# - {MAXPLAYERS}: Show the maximum number of players supported by the server
+# - {TOTALPLAYERS}: Show the number of all online players
+# - {PREFIX}: Show prefix
+# - {SUFFIX}: Show suffix
+# - {TIME}: Show current time
+# Available tags for /sendmessage, /sendpopup and /sendtitle format:
+# - {MESSAGE}: Show message
+# - {MAXPLAYERS}: Show the maximum number of players supported by the server
+# - {TOTALPLAYERS}: Show the number of all online players
+# - {PREFIX}: Show prefix
+# - {PLAYER}: Message receiver
+# - {SENDER}: Show sender name
+# - {SUFFIX}: Show suffix
+# - {TIME}: Show current time
+# Extra tag for titles:
+# - {SUBTITLE}: Add subtitle (the text after this tag will be the content of the subtitle) 
+prefix: "&9[&eBroadcaster&9]"
+suffix: "[A]"
+datetime-format: "H:i:s"
+message-broadcast:
+ enabled: true
+ time: 60
+ command-format: "&e[{TIME}] {PREFIX} {SUFFIX} &a{SENDER}&e>&f {MESSAGE}"
+ messages:
+  - "&d✾&b Khi đạt cấp độ&e 20&b các Nhẫn Giả có dùng &c/thanhpho&b để đến khu Thành Phố."
+  - "&e&l- &cTOP NẠP THẺ MÁY CHỦ THÁNG NÀY&e -\n &bTOP 1: &dChưa có\n &bTOP 2: &dChưa có\n &bTOP 3: &dChưa có\n &r&f Máy Chủ Đang Khuyến Mãi 120% Giá Trị Nạp Thẻ Đến Hết Tháng 5, Để Nạp Thẻ Nhẫn Giả Hãy Dùng Lệnh &a/qidacoin."
+  - "&e• &fTên Trộm &cHuấn Ninja &fnổi danh đã trộm Báu Vật của làng và để lại lời nhắn cho chúng ta\nLời Nhắn: Những cái loại xin đồ không làm mà đòi có ăn thì chỉ có ăn SHIT, ăn ĐB thôi nhé, nói thế cho nó nhanh cho nó dễ hiểu!"
+  - "&b• &eLương Y Phạm Thị Lĩnh &fBà con ai đang gặp các vấn đề về xương khớp gọi cho tôi, tôi cam kết chữa khỏi 100%."
+  - "&b• &eLương Y Phạm Thị Lĩnh &fChỉ sợ những người không uống thuốc của nhà tôi thôi, uống là khỏi trăm phần trăm."
+  - "&d✾&b Fanpage Chính Thức Của Máy Chủ &eBit.do/ngscmcbe&f /&b Group Giao Lưu Thảo Luận Chính Thức Của Máy Chủ &eBit.do/ngscgroup"
+  - "&d✾&b Theo Dõi Fanpage Của Máy Chủ Để Biết Chi Tiết Event & Update Sớm Nhất."
+  - "&d✾&b Máy Chủ gồm có 3 loại tiền tệ quan trọng là &6Vàng&b,&f Bạc&b,&c Xu&b. Khi nạp thẻ, các Nhẫn Giả sẽ nhận được &cQidaCoin&b dùng để đổi ra &6Vàng&b."
+  - "&d✾&b Máy Chủ gồm có 31 cấp bậc riêng cho Nhẫn Giả chinh phục từ &fTập Sự &b》 &cLục Đạo Tiên Nhân Bậc Ss&b. Khi thăng tiến cấp bậc, tôn hiệu của Nhẫn Giả sẽ càng rực rỡ hơn, vậy nên đừng quên thăng tiến đều đặn nhé!"
+  - "&d✾&b Khi Nhẫn Giả trò chuyện, lời chat sẽ được hiện trên đầu của Nhẫn Giả. Ngoài ra Nhẫn Giả có thể dùng &c/loa&b để thông báo công khai!"
+  - "&d✾&b Sau khi đạt được &cCấp 10&b, Nhẫn Giả có thể dịch chuyển sang khu QUÁI bằng lệnh &c/genin, /anbu&b hoặc lệnh &c/dichchuyen&b."
+  - "&d✾&b Để nhận GiftCode, các Nhẫn Giả hãy theo dõi Fanpage và tham gia các Sự Kiện trên đấy. Để sử dụng GiftCode, các Nhẫn Giả hãy sử dụng lệnh &c/mycode."
+  - "&d✾&b Để khoe vật phẩm mình đang có lên kênh chat, các Nhẫn Giả hãy sử dụng lệnh &c/khoe."
+  - "&cMÁY CHỦ HIỆN ĐANG KHUYẾN MÃI 120% NẠP THẺ, NẠP NGAY HÔM NAY ĐỂ NHẬN KHUYẾN MÃI QIDACOIN &7(&a/qidacoin&7)."
+  - "&d✾&b Để bật chế độ Nhẫn Giả, các Nhẫn Giả hãy tiến hành ngồi xuống và đứng lên nhé!"
+  - "&d✾&b Điểm Tiềm Năng Tổng dùng để học Nhẫn Thuật, các Nhẫn Giả nhận được nó thông qua sự kiện và trian quái rơi nha!"
+  - "&d✾&b Điểm Tiềm Năng là một hệ thống tăng chỉ số sức mạnh của Nhẫn Giả, hãy dùng lệnh &c/stats&b để nâng. Điểm Tiềm Năng kiếm được khi Nhẫn Giả lên cấp hoặc tham gia &cNhiệm Vụ Nhẫn Thuật."
+  - "&d✾&b Đừng quên Like và THEO DÕI Fanpage để nhận được nhiều GiftCode nha"
+popup-broadcast:
+ enabled: false
+ time: 15
+ duration: 5
+ command-format: "&a{SENDER}&e>>&f {MESSAGE}"
+ messages:
+  - "&aChào Mừng Bạn Đã Đến Với Server-Naruto (Nhẫn Giả Song Chiến)"
+title-broadcast:
+ enabled: false
+ time: 30
+ command-format: "&d{MESSAGE}"
+ messages:
+  - "&eChào Mừng Bạn Đã Đến Với Server-Naruto (Nhẫn Giả Song Chiến)"
+...

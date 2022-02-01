@@ -1,0 +1,85 @@
+---
+datetime-format: "H:i:s"
+Motd:
+  update-timeout: 1
+  custom: true
+  message: "&e&l[&cNHẪN GIẢ SONG CHIẾN&e] &r&b{TOTALPLAYERS}/{MAXPLAYERS}"
+OutdatedClient:
+  custom: true
+  message: "&l&cMCPE của bạn không phù hợp cho Server!"
+OutdatedServer:
+  custom: true
+  message: "&c&lMáy Chủ Lỗi Thời!"
+WhitelistedServer:
+  custom: true
+  message: "&l&cServer Bảo Trì&e!"
+FullServer:
+  custom: true
+  message: "&e{PLAYER}&b, Server đã đầy &c[{TOTALPLAYERS}/{MAXPLAYERS}]&b!\n&l&dTRuy cập để tham gia sau nha :)"
+FirstJoin:
+  enable: true
+  message: "&l☯&b{PLAYER}&7 Đã Được Chuyển Sinh Thành &cNinja."
+Join:
+  hide: false
+  custom: true
+  message: "&fNhẫn Giả§a {PLAYER}&f Đã Quay Trở Lại."
+Quit:
+  hide: false
+  custom: true
+  message: "&fNhẫn Giả&c {PLAYER}&f Rời Thế Giới Nhẫn Giả."
+WorldChange:
+  enable: false
+  message: "&2[{TIME}] &a{PLAYER}&e Chuyển từ &c{ORIGIN}&e đến &a{TARGET}"
+Death:
+  hide: false
+  custom: true
+  message: "&cNhẫn Giả {PLAYER} đã hy sinh"
+  death-contact-message:
+    hide: false
+    custom: true
+    message: "&cNhẫn Giả {PLAYER} đã bị giết bởi {BLOCK}"
+  death-projectile-message:
+    hide: false
+    custom: true
+    message: "&fNhẫn Giả&a {PLAYER} &fđã bị giết bởi&c {KILLER}"
+  death-suffocation-message:
+    hide: false
+    custom: true
+    message: "&cNhẫn Giả {PLAYER} tắt thở"
+  death-fall-message:
+    hide: false
+    custom: true
+    message: "&cNhẫn Giả {PLAYER} Rớt nài"
+  death-fire-message:
+    hide: false
+    custom: true
+    message: "&cNhẫn Giả {PLAYER} Thử Lửa"
+  death-on-fire-message:
+    hide: false
+    custom: true
+    message: "&cNhẫn Giả {PLAYER} Thử mình trong lửa"
+  death-lava-message:
+    hide: false
+    custom: true
+    message: "&cNhẫn Giả {PLAYER} Ngâm mình trong nhung nham"
+  death-drowning-message:
+    hide: false
+    custom: true
+    message: "&cNhẫn Giả {PLAYER} Chết đuối"
+  death-explosion-message:
+    hide: false
+    custom: true
+    message: "&cNhẫn Giả {PLAYER} Phát nổ"
+  death-void-message:
+    hide: false
+    custom: true
+    message: "&cNhẫn Giả {PLAYER} Rơi ra khỏi thế giới"
+  death-suicide-message:
+    hide: false
+    custom: true
+    message: "&cNhẫn Giả {PLAYER} Tự sát"
+  death-magic-message:
+    hide: false
+    custom: true
+    message: "&cNhẫn Giả {PLAYER} Đã bị giết bởi câu thần chú"
+...

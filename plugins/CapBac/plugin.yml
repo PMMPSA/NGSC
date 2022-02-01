@@ -1,0 +1,10 @@
+name: NGVS_Rank
+main: CB\Main
+version: 1.0.0
+author: NguyenDongQuy
+api: 3.0.0
+description: Hệ thống Rank
+commands:
+ rank:
+  description: "Hệ thống Rank"
+  default: true

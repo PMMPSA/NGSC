@@ -1,0 +1,22 @@
+---
+# AutoClearLagg (ACL) Config
+# Được Việt Hóa Bởi: Nờ Cờ Dờ (NCD)
+
+# Thời Gian Dọn Rác.
+seconds: 600 # 15 Phút.
+
+# Tùy Chọn Dọn Rác.
+clear:
+  items: true
+  mobs: true
+  exempt: # Không Dọn Các Mob Theo Tùy Chọn.
+    - Zombie
+    - Pig
+
+# Lời Nhắn Khi Dọn Rác.
+messages:
+  time-left: "§e๖Madara §f↠ §aTa sẽ đến và giết hết các ngươi trong §c{SECONDS} §agiây nữa."
+  entities-cleared: "§e๖Madara §f↠ §aChờ ta triệu hồi được Thập Vĩ ta sẽ đến tiêu diệt các ngươi. Thu thập được §c{COUNT} §aVĩ Thú (item)."
+# Thời Gian Nhắc Dọn Rác.
+times: [60, 30, 15, 10, 5]
+...

@@ -1,0 +1,12 @@
+---
+name: NTUi
+author: Nguyen_Dong_Quy
+api:
+- 3.0.0
+version: 1.0
+main: IFS\Main
+commands:
+ nhanthuat:
+  description: "Hệ thống nhẫn thuật"
+  default: true
+...

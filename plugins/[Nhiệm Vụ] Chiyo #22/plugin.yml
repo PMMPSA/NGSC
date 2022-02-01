@@ -1,0 +1,8 @@
+---
+name: NV_Chiyo_22
+author: Nguyen_Dong_Quy_Edit_NQC
+api:
+- 3.0.0
+version: 1.0
+main: NV22\Main
+...

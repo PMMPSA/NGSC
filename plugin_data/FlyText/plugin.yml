@@ -1,0 +1,12 @@
+---
+name: FlyText
+author: Nguyen_Dong_Quy
+api:
+- 3.0.0
+version: 1.0
+main: PTK\FlyText\Main
+commands:
+ addtext:
+  description: He Thong Chu Bay
+  default: op
+...

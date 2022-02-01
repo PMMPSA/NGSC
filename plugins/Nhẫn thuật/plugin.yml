@@ -1,0 +1,12 @@
+---
+name: Hoc_Nhan_Thuat
+author: NguyenDongQuya
+api:
+- 3.0.0
+version: 1.0
+main: HT\Main
+commands:
+ hocskill:
+  description: "Hệ thống học nhẫn thuật"
+  default: true
+...

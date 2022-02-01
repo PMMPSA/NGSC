@@ -1,0 +1,1885 @@
+---
+- name: §l§c【§6QUÁI§c】§r§f Baki §eLV 10
+  skin: baki
+  maxhealth: 100
+  damage: 1
+  speed: 1
+  posX: 1.007400
+  posY: 16.000000
+  posZ: 61.382300
+  level: trian2
+  drops:
+  - "363:0:1"
+  scale: 1
+  commands:
+  - boss cooldown 0 30
+  custom-item:
+    1:
+      id: "377:0:1"
+      chance: 80
+      name: §l§cĐan Chakra Tổng - Tiểu
+      lore: §l§aKhi Dùng Sẽ Nhận Được 10 Điểm Chakra Tổng
+      enchantment:
+      - "17:5"
+    2:
+      id: "378:0:1"
+      chance: 70
+      name: §l§cĐan Chakra Tổng - Đại
+      lore: §l§aKhi Dùng Sẽ Nhận Được 25 Điểm Chakra Tổng
+      enchantment:
+      - "17:5"
+- name: §l§c【§6QUÁI§c】§r§f Baki §eLV 10
+  skin: baki
+  maxhealth: 100
+  damage: 1
+  speed: 1
+  posX: -0.226800
+  posY: 16.000000
+  posZ: 61.380000
+  level: trian2
+  drops:
+  - "363:0:1"
+  scale: 1
+  commands:
+  - boss cooldown 1 30
+  custom-item:
+    1:
+      id: "377:0:1"
+      chance: 90
+      name: §l§cĐan Chakra Tổng - Tiểu
+      lore: §l§aKhi Dùng Sẽ Nhận Được 10 Điểm Chakra Tổng
+      enchantment:
+      - "17:5"
+    2:
+      id: "378:0:1"
+      chance: 70
+      name: §l§cĐan Chakra Tổng - Đại
+      lore: §l§aKhi Dùng Sẽ Nhận Được 25 Điểm Chakra Tổng
+      enchantment:
+      - "17:5"
+- name: §l§c【§6QUÁI§c】§r§f Baki §eLV 10
+  skin: baki
+  maxhealth: 100
+  damage: 1
+  speed: 1
+  posX: 0.103700
+  posY: 16.000000
+  posZ: 63.026000
+  level: trian2
+  drops:
+  - "363:0:1"
+  scale: 1
+  commands:
+  - boss cooldown 2 30
+  custom-item:
+    1:
+      id: "377:0:1"
+      chance: 70
+      name: §l§cĐan Chakra Tổng - Tiểu
+      lore: §l§aKhi Dùng Sẽ Nhận Được 10 Điểm Chakra Tổng
+      enchantment:
+      - "17:5"
+    2:
+      id: "378:0:1"
+      chance: 35
+      name: §l§cĐan Chakra Tổng - Đại
+      lore: §l§aKhi Dùng Sẽ Nhận Được 25 Điểm Chakra Tổng
+      enchantment:
+      - "17:5"
+- name: §l§c【§6QUÁI§c】§r§f Dan_Hyuga §eLV 15
+  skin: dan_hyuga
+  maxhealth: 200
+  damage: 2
+  speed: 1
+  posX: -16.668200
+  posY: 16.000000
+  posZ: 68.882900
+  level: trian2
+  drops:
+  - "363:0:1"
+  scale: 1
+  commands:
+  - boss cooldown 3 30
+  custom-item:
+    1:
+      id: "377:0:1"
+      chance: 80
+      name: §l§cĐan Chakra Tổng - Tiểu
+      lore: §l§aKhi Dùng Sẽ Nhận Được 10 Điểm Chakra Tổng
+      enchantment:
+      - "17:5"
+    2:
+      id: "378:0:1"
+      chance: 70
+      name: §l§cĐan Chakra Tổng - Đại
+      lore: §l§aKhi Dùng Sẽ Nhận Được 25 Điểm Chakra Tổng
+      enchantment:
+      - "17:5"
+- name: §l§c【§6QUÁI§c】§r§f Dan_Hyuga §eLV 15
+  skin: dan_hyuga
+  maxhealth: 200
+  damage: 2
+  speed: 1
+  posX: -16.423400
+  posY: 16.000000
+  posZ: 70.808100
+  level: trian2
+  drops:
+  - "363:0:1"
+  scale: 1
+  commands:
+  - boss cooldown 4 30
+  custom-item:
+    1:
+      id: "377:0:1"
+      chance: 80
+      name: §l§cĐan Chakra Tổng - Tiểu
+      lore: §l§aKhi Dùng Sẽ Nhận Được 10 Điểm Chakra Tổng
+      enchantment:
+      - "17:5"
+    2:
+      id: "378:0:1"
+      chance: 40
+      name: §l§cĐan Chakra Tổng - Đại
+      lore: §l§aKhi Dùng Sẽ Nhận Được 25 Điểm Chakra Tổng
+      enchantment:
+      - "17:5"
+- name: §l§c【§6QUÁI§c】§r§f Dan_Hyuga §eLV 15
+  skin: dan_hyuga
+  maxhealth: 200
+  damage: 2
+  speed: 1
+  posX: -15.035900
+  posY: 16.000000
+  posZ: 69.764500
+  level: trian2
+  drops:
+  - "363:0:1"
+  scale: 1
+  commands:
+  - boss cooldown 5 30
+  custom-item:
+    1:
+      id: "377:0:1"
+      chance: 90
+      name: §l§cĐan Chakra Tổng - Tiểu
+      lore: §l§aKhi Dùng Sẽ Nhận Được 10 Điểm Chakra Tổng
+      enchantment:
+      - "17:5"
+    2:
+      id: "378:0:1"
+      chance: 40
+      name: §l§cĐan Chakra Tổng - Đại
+      lore: §l§aKhi Dùng Sẽ Nhận Được 25 Điểm Chakra Tổng
+      enchantment:
+      - "17:5"
+- name: §l§c【§6QUÁI§c】§r§f Fugaku §eLV 20
+  skin: fugaku
+  maxhealth: 300
+  damage: 4
+  speed: 1
+  posX: -20.552900
+  posY: 16.000000
+  posZ: 87.730800
+  level: trian2
+  drops:
+  - "363:0:1"
+  scale: 1
+  commands:
+  - boss cooldown 6 30
+  custom-item:
+    1:
+      id: "351:1:1"
+      chance: 50
+      name: §l§cMảnh Mũ GENIN
+      lore: §l§aTích đủ 30 Mảnh Click Xuống Đất Để Nhận Mũ GENIN
+      enchantment:
+      - "17:9"
+- name: §l§c【§6QUÁI§c】§r§f Fugaku §eLV 20
+  skin: fugaku
+  maxhealth: 300
+  damage: 4
+  speed: 1
+  posX: -18.445700
+  posY: 16.000000
+  posZ: 88.179500
+  level: trian2
+  drops:
+  - "363:0:1"
+  scale: 1
+  commands:
+  - boss cooldown 7 30
+  custom-item:
+    1:
+      id: "415:0:1"
+      chance: 50
+      name: §l§cMảnh Quần GENIN
+      lore: §l§aTích đủ 30 Mảnh Click Xuống Đất Để Nhận Quần GENIN
+      enchantment:
+      - "17:9"
+- name: §l§c【§6QUÁI§c】§r§f Fugaku §eLV 20
+  skin: fugaku
+  maxhealth: 300
+  damage: 4
+  speed: 1
+  posX: -20.626700
+  posY: 16.000000
+  posZ: 90.140700
+  level: trian2
+  drops:
+  - "363:0:1"
+  scale: 1
+  commands:
+  - boss cooldown 8 30
+  custom-item:
+    1:
+      id: "111:0:1"
+      chance: 50
+      name: §l§cMảnh Giáp GENIN
+      lore: §l§aTích đủ 30 Mảnh Click Xuống Đất Để Nhận Giáp GENIN
+      enchantment:
+      - "17:9"
+- name: §l§c【§6QUÁI§c】§r§f Hiashi_Hyuga §eLV 30
+  skin: hiashi_hyuga
+  maxhealth: 500
+  damage: 6
+  speed: 1
+  posX: 4.442300
+  posY: 16.000000
+  posZ: 102.051800
+  level: trian2
+  drops:
+  - "363:0:1"
+  scale: 1
+  commands:
+  - boss cooldown 9 30
+  custom-item:
+    1:
+      id: "414:0:1"
+      chance: 50
+      name: §l§cMảnh Giày GENIN
+      lore: §l§aTích đủ 30 Mảnh Click Xuống Đất Để Nhận Giày GENIN
+      enchantment:
+      - "17:9"
+- name: §l§c【§6QUÁI§c】§r§f Hiashi_Hyuga §eLV 30
+  skin: hiashi_hyuga
+  maxhealth: 500
+  damage: 6
+  speed: 1
+  posX: 6.403800
+  posY: 16.000000
+  posZ: 101.155000
+  level: trian2
+  drops:
+  - "363:0:1"
+  scale: 1
+  commands:
+  - boss cooldown 10 30
+  custom-item:
+    1:
+      id: "369:0:1"
+      chance: 50
+      name: §l§cMảnh Kiếm GENIN
+      lore: §l§aTích đủ 40 Mảnh Click Xuống Đất Để Nhận Kiếm GENIN
+      enchantment:
+      - "17:9"
+- name: §l§c【§6QUÁI§c】§r§f Hiashi_Hyuga §eLV 30
+  skin: hiashi_hyuga
+  maxhealth: 500
+  damage: 6
+  speed: 1
+  posX: 6.196200
+  posY: 16.000000
+  posZ: 104.328800
+  level: trian2
+  drops:
+  - "363:0:1"
+  scale: 1
+  commands:
+  - boss cooldown 11 30
+  custom-item:
+    1:
+      id: "369:0:1"
+      chance: 50
+      name: §l§cMảnh Kiếm GENIN
+      lore: §l§aTích đủ 40 Mảnh Click Xuống Đất Để Nhận Kiếm GENIN
+      enchantment:
+      - "17:9"
+- name: §l§c【§6QUÁI§c】§r§f Hizashi §eLV 40
+  skin: hizashi
+  maxhealth: 800
+  damage: 8
+  speed: 1
+  posX: -25.921800
+  posY: 16.000000
+  posZ: 108.362600
+  level: trian2
+  drops:
+  - "363:0:1"
+  scale: 1
+  commands:
+  - boss cooldown 12 30
+  custom-item:
+    1:
+      id: "351:1:1"
+      chance: 50
+      name: §l§cMảnh Mũ JONIN
+      lore: §l§aTích đủ 40 Mảnh Click Xuống Đất Để Nhận Mũ JONIN
+      enchantment:
+      - "17:9"
+- name: §l§c【§6QUÁI§c】§r§f Hizashi §eLV 40
+  skin: hizashi
+  maxhealth: 800
+  damage: 8
+  speed: 1
+  posX: -24.631200
+  posY: 16.000000
+  posZ: 108.443500
+  level: trian2
+  drops:
+  - "363:0:1"
+  scale: 1
+  commands:
+  - boss cooldown 13 30
+  custom-item:
+    1:
+      id: "111:0:1"
+      chance: 50
+      name: §l§cMảnh Giáp JONIN
+      lore: §l§aTích đủ 40 Mảnh Click Xuống Đất Để Nhận Giáp JONIN
+      enchantment:
+      - "17:9"
+- name: §l§c【§6QUÁI§c】§r§f Hizashi §eLV 40
+  skin: hizashi
+  maxhealth: 800
+  damage: 8
+  speed: 1
+  posX: -26.526400
+  posY: 16.000000
+  posZ: 111.136300
+  level: trian2
+  drops:
+  - "363:0:1"
+  scale: 1
+  commands:
+  - boss cooldown 14 30
+  custom-item:
+    1:
+      id: "415:0:1"
+      chance: 50
+      name: §l§cMảnh Quần JONIN
+      lore: §l§aTích đủ 40 Mảnh Click Xuống Đất Để Nhận Quần JONIN
+      enchantment:
+      - "17:9"
+- name: §l§c【§6QUÁI§c】§r§f Nohara_Rin §eLV 50
+  skin: nohara_rin
+  maxhealth: 1000
+  damage: 12
+  speed: 1
+  posX: -48.677800
+  posY: 16.000000
+  posZ: 99.876200
+  level: trian2
+  drops:
+  - "363:0:1"
+  scale: 1
+  commands:
+  - boss cooldown 15 30
+  custom-item:
+    1:
+      id: "414:0:1"
+      chance: 50
+      name: §l§cMảnh Giày JONIN
+      lore: §l§aTích đủ 40 Mảnh Click Xuống Đất Để Nhận Giày JONIN
+      enchantment:
+      - "17:9"
+- name: §l§c【§6QUÁI§c】§r§f Nohara_Rin §eLV 50
+  skin: nohara_rin
+  maxhealth: 1000
+  damage: 12
+  speed: 1
+  posX: -48.449700
+  posY: 16.000000
+  posZ: 102.671000
+  level: trian2
+  drops:
+  - "363:0:1"
+  scale: 1
+  commands:
+  - boss cooldown 16 30
+  custom-item:
+    1:
+      id: "369:0:1"
+      chance: 50
+      name: §l§cMảnh Kiếm JONIN
+      lore: §l§aTích đủ 50 Mảnh Click Xuống Đất Để Nhận Kiếm JONIN
+      enchantment:
+      - "17:9"
+    2:
+      id: "351:15:1"
+      chance: 0.100000
+      name: §l§eBụi Chakra §6#SK
+      lore: §l§aTích đủ 20 Mảnh Click Xuống Đất Để Nhận Đá Chakra
+      enchantment:
+      - "17:9"
+- name: §l§c【§6QUÁI§c】§r§f Nohara_Rin §eLV 50
+  skin: nohara_rin
+  maxhealth: 1000
+  damage: 12
+  speed: 1
+  posX: -51.244400
+  posY: 16.000000
+  posZ: 102.901200
+  level: trian2
+  drops:
+  - "363:0:1"
+  scale: 1
+  commands:
+  - boss cooldown 17 30
+  custom-item:
+    1:
+      id: "369:0:1"
+      chance: 50
+      name: §l§cMảnh Kiếm JONIN
+      lore: §l§aTích đủ 50 Mảnh Click Xuống Đất Để Nhận Kiếm JONIN
+      enchantment:
+      - "17:9"
+    2:
+      id: "351:15:1"
+      chance: 0.100000
+      name: §l§eBụi Chakra §6#SK
+      lore: §l§aTích đủ 20 Mảnh Click Xuống Đất Để Nhận Đá Chakra
+      enchantment:
+      - "17:9"
+- name: §l§c【§6QUÁI§c】§r§f Shizune §eLV 60
+  skin: shizune
+  maxhealth: 1500
+  damage: 15
+  speed: 1
+  posX: -43.813100
+  posY: 16.000000
+  posZ: 73.768700
+  level: trian2
+  drops:
+  - "363:0:1"
+  scale: 1
+  commands:
+  - boss cooldown 18 30
+  custom-item:
+    1:
+      id: "414:0:1"
+      chance: 50
+      name: §l§eMảnh Giày ANBU
+      lore: §l§aTích đủ 50 Mảnh Click Xuống Đất Để Nhận Giày ANBU
+      enchantment:
+      - "17:9"
+    2:
+      id: "351:15:1"
+      chance: 0.100000
+      name: §l§eBụi Chakra §6#SK
+      lore: §l§aTích đủ 20 Mảnh Click Xuống Đất Để Nhận Đá Chakra
+      enchantment:
+      - "17:9"
+- name: §l§c【§6QUÁI§c】§r§f Shizune §eLV 60
+  skin: shizune
+  maxhealth: 1500
+  damage: 15
+  speed: 1
+  posX: -42.368500
+  posY: 16.000000
+  posZ: 70.929800
+  level: trian2
+  drops:
+  - "363:0:1"
+  scale: 1
+  commands:
+  - boss cooldown 19 30
+  custom-item:
+    1:
+      id: "414:0:1"
+      chance: 50
+      name: §l§eMảnh Giày ANBU
+      lore: §l§aTích đủ 50 Mảnh Click Xuống Đất Để Nhận Giày ANBU
+      enchantment:
+      - "17:9"
+    2:
+      id: "351:15:1"
+      chance: 0.100000
+      name: §l§eBụi Chakra §6#SK
+      lore: §l§aTích đủ 20 Mảnh Click Xuống Đất Để Nhận Đá Chakra
+      enchantment:
+      - "17:9"
+- name: §l§c【§6QUÁI§c】§r§f Shizune §eLV 60
+  skin: shizune
+  maxhealth: 1500
+  damage: 15
+  speed: 1
+  posX: -46.092900
+  posY: 16.000000
+  posZ: 70.098600
+  level: trian2
+  drops:
+  - "363:0:1"
+  scale: 1
+  commands:
+  - boss cooldown 20 30
+  custom-item:
+    1:
+      id: "266:0:1"
+      chance: 50
+      name: §l§eMảnh Mũ ANBU
+      lore: §l§aTích Đủ 50 Mảnh Click Xuống Đất Để Chế Tạo Tự Động Thành Mũ ANBU
+      enchantment:
+      - "17:5"
+    2:
+      id: "351:15:1"
+      chance: 80
+      name: §l§eBụi Chakra §6#SK
+      lore: §l§aTích đủ 20 Mảnh Click Xuống Đất Để Nhận Đá Chakra
+      enchantment:
+      - "17:9"
+- name: §l§c【§6QUÁI§c】§r§f Shizune §eLV 60
+  skin: shizune
+  maxhealth: 1500
+  damage: 15
+  speed: 1
+  posX: -45.250100
+  posY: 16.000000
+  posZ: 67.149000
+  level: trian2
+  drops:
+  - "363:0:1"
+  scale: 1
+  commands:
+  - boss cooldown 21 30
+  custom-item:
+    1:
+      id: "377:0:1"
+      chance: 80
+      name: §l§cĐan Chakra Tổng - Tiểu
+      lore: §l§aKhi Dùng Sẽ Nhận Được 10 Điểm Chakra Tổng
+      enchantment:
+      - "17:5"
+    2:
+      id: "452:0:1"
+      chance: 50
+      name: §l§cCạnh Nhọn Shuriken
+      lore: §l§aTích Đủ 6 Mảnh Click Xuống Đất Để Chế Tạo Tự Động Thành Shuriken
+      enchantment:
+      - "17:5"
+    3:
+      id: "369:0:1"
+      chance: 50
+      name: §l§eMảnh Kiếm ANBU
+      lore: §l§aTích Đủ 60 Mảnh Click Xuống Đất Để Chế Tạo Tự Động Thành Kiếm ANBU
+      enchantment:
+      - "17:5"
+    4:
+      id: "372:0:1"
+      chance: 50
+      name: §l§cMảnh Ngọc Giải Cứu Kazekage
+      lore: §l§aTích đủ 10 Mảnh Click Xuống Đất Để Nhận Ngọc Dịch Chuyễn Giải Cứu
+        Kazekage
+      enchantment:
+      - "17:9"
+- name: §l§c【§6QUÁI§c】§r§f Sát_Nhân §eLV 80
+  skin: yayuya
+  maxhealth: 2000
+  damage: 24
+  speed: 1
+  posX: 262.892100
+  posY: 67.000000
+  posZ: 288.116700
+  level: dropnew
+  drops:
+  - "363:0:1"
+  scale: 1
+  commands:
+  - boss cooldown 22 30
+  custom-item:
+    1:
+      id: "348:0:1"
+      chance: 50
+      name: §l§eMảnh Quần ANBU
+      lore: §l§aTích Đủ 50 Mảnh Click Xuống Đất Để Chế Tạo Tự Động Thành Quần ANBU
+      enchantment:
+      - "17:5"
+    2:
+      id: "378:0:1"
+      chance: 80
+      name: §l§cĐan Chakra Tổng - Đại
+      lore: §l§aKhi Dùng Sẽ Nhận Được 25 Điểm Chakra Tổng
+      enchantment:
+      - "17:5"
+    3:
+      id: "351:15:1"
+      chance: 0.100000
+      name: §l§eBụi Chakra §6#SK
+      lore: §l§aTích đủ 20 Mảnh Click Xuống Đất Để Nhận Đá Chakra
+      enchantment:
+      - "17:9"
+    4:
+      id: "351:15:1"
+      chance: 0.100000
+      name: §l§eBụi Chakra §6#SK
+      lore: §l§aTích đủ 20 Mảnh Click Xuống Đất Để Nhận Đá Chakra
+      enchantment:
+      - "17:9"
+    5:
+      id: "372:0:1"
+      chance: 50
+      name: §l§cMảnh Ngọc Giải Cứu Kazekage
+      lore: §l§aTích đủ 10 Mảnh Click Xuống Đất Để Nhận Ngọc Dịch Chuyễn Giải Cứu
+        Kazekage
+      enchantment:
+      - "17:9"
+- name: §l§c【§6QUÁI§c】§r§f Sát_Nhân §eLV 80
+  skin: yayuya
+  maxhealth: 2000
+  damage: 24
+  speed: 1
+  posX: 260.766800
+  posY: 67.000000
+  posZ: 287.799700
+  level: dropnew
+  drops:
+  - "363:0:1"
+  scale: 1
+  commands:
+  - boss cooldown 23 30
+  custom-item:
+    1:
+      id: "369:0:1"
+      chance: 50
+      name: §l§eMảnh Kiếm ANBU
+      lore: §l§aTích Đủ 60 Mảnh Click Xuống Đất Để Chế Tạo Tự Động Thành Kiếm ANBU
+      enchantment:
+      - "17:5"
+    2:
+      id: "377:0:1"
+      chance: 80
+      name: §l§cĐan Chakra Tổng - Tiểu
+      lore: §l§aKhi Dùng Sẽ Nhận Được 10 Điểm Chakra Tổng
+      enchantment:
+      - "17:5"
+    3:
+      id: "452:0:1"
+      chance: 50
+      name: §l§cCạnh Nhọn Shuriken
+      lore: §l§aTích Đủ 6 Mảnh Click Xuống Đất Để Chế Tạo Tự Động Thành Shuriken
+      enchantment:
+      - "17:5"
+    4:
+      id: "351:15:1"
+      chance: 0.100000
+      name: §l§eBụi Chakra §6#SK
+      lore: §l§aTích đủ 20 Mảnh Click Xuống Đất Để Nhận Đá Chakra
+      enchantment:
+      - "17:9"
+    5:
+      id: "372:0:1"
+      chance: 50
+      name: §l§cMảnh Ngọc Giải Cứu Kazekage
+      lore: §l§aTích đủ 10 Mảnh Click Xuống Đất Để Nhận Ngọc Dịch Chuyễn Giải Cứu
+        Kazekage
+      enchantment:
+      - "17:9"
+- name: §l§c【§6QUÁI§c】§r§f Sát_Nhân §eLV 80
+  skin: yayuya
+  maxhealth: 2000
+  damage: 24
+  speed: 1
+  posX: 261.659700
+  posY: 67.000000
+  posZ: 291.311600
+  level: dropnew
+  drops:
+  - "363:0:1"
+  scale: 1
+  commands:
+  - boss cooldown 24 30
+  custom-item:
+    1:
+      id: "396:0:1"
+      chance: 80
+      name: §l§6Lệnh Nhẫn Giả
+      lore: §l§aSử dụng nhận được 2 điểm tiềm năng
+      enchantment:
+      - "17:9"
+    2:
+      id: "378:0:1"
+      chance: 80
+      name: §l§cĐan Chakra Tổng - Đại
+      lore: §l§aKhi Dùng Sẽ Nhận Được 25 Điểm Chakra Tổng
+      enchantment:
+      - "17:5"
+    3:
+      id: "369:0:1"
+      chance: 50
+      name: §l§eMảnh Kiếm ANBU
+      lore: §l§aTích Đủ 60 Mảnh Click Xuống Đất Để Chế Tạo Tự Động Thành Kiếm ANBU
+      enchantment:
+      - "17:5"
+    4:
+      id: "351:15:5"
+      chance: 90
+      name: §l§eBụi Chakra §6#SK
+      lore: §l§aTích đủ 20 Mảnh Click Xuống Đất Để Nhận Đá Chakra
+      enchantment:
+      - "17:9"
+- name: §l§c【§6QUÁI§c】§r§f Sát_Nhân §eLV 80
+  skin: yayuya
+  maxhealth: 2000
+  damage: 24
+  speed: 1
+  posX: 263.039900
+  posY: 67.000000
+  posZ: 289.554500
+  level: dropnew
+  drops:
+  - "363:0:1"
+  scale: 1
+  commands:
+  - boss cooldown 25 30
+  custom-item:
+    1:
+      id: "369:0:1"
+      chance: 50
+      name: §l§eMảnh Kiếm ANBU
+      lore: §l§aTích Đủ 60 Mảnh Click Xuống Đất Để Chế Tạo Tự Động Thành Kiếm ANBU
+      enchantment:
+      - "17:5"
+    2:
+      id: "377:0:1"
+      chance: 80
+      name: §l§cĐan Chakra Tổng - Tiểu
+      lore: §l§aKhi Dùng Sẽ Nhận Được 10 Điểm Chakra Tổng
+      enchantment:
+      - "17:5"
+    3:
+      id: "452:0:1"
+      chance: 50
+      name: §l§cCạnh Nhọn Shuriken
+      lore: §l§aTích Đủ 6 Mảnh Click Xuống Đất Để Chế Tạo Tự Động Thành Shuriken
+      enchantment:
+      - "17:5"
+    4:
+      id: "351:15:1"
+      chance: 0.100000
+      name: §l§eBụi Chakra §6#SK
+      lore: §l§aTích đủ 20 Mảnh Click Xuống Đất Để Nhận Đá Chakra
+      enchantment:
+      - "17:9"
+    5:
+      id: "372:0:1"
+      chance: 50
+      name: §l§cMảnh Ngọc Giải Cứu Kazekage
+      lore: §l§aTích đủ 10 Mảnh Click Xuống Đất Để Nhận Ngọc Dịch Chuyễn Giải Cứu
+        Kazekage
+      enchantment:
+      - "17:9"
+- name: §l§c【§6QUÁI§c】§r§f Hyuga §eLV 100
+  skin: dan_hyuga
+  maxhealth: 3000
+  damage: 33
+  speed: 1
+  posX: 233.670500
+  posY: 67.000000
+  posZ: 290.709800
+  level: dropnew
+  drops:
+  - "363:0:1"
+  scale: 1
+  commands:
+  - boss cooldown 26 30
+  custom-item:
+    1:
+      id: "369:0:1"
+      chance: 50
+      name: §l§eMảnh Kiếm ANBU
+      lore: §l§aTích Đủ 60 Mảnh Click Xuống Đất Để Chế Tạo Tự Động Thành Kiếm ANBU
+      enchantment:
+      - "17:5"
+    2:
+      id: "377:0:1"
+      chance: 80
+      name: §l§cĐan Chakra Tổng - Tiểu
+      lore: §l§aKhi Dùng Sẽ Nhận Được 10 Điểm Chakra Tổng
+      enchantment:
+      - "17:5"
+    3:
+      id: "452:0:1"
+      chance: 50
+      name: §l§cCạnh Nhọn Shuriken
+      lore: §l§aTích Đủ 6 Mảnh Click Xuống Đất Để Chế Tạo Tự Động Thành Shuriken
+      enchantment:
+      - "17:5"
+    4:
+      id: "351:15:1"
+      chance: 0.100000
+      name: §l§eBụi Chakra §6#SK
+      lore: §l§aTích đủ 20 Mảnh Click Xuống Đất Để Nhận Đá Chakra
+      enchantment:
+      - "17:9"
+    5:
+      id: "372:0:1"
+      chance: 50
+      name: §l§cMảnh Ngọc Giải Cứu Kazekage
+      lore: §l§aTích đủ 10 Mảnh Click Xuống Đất Để Nhận Ngọc Dịch Chuyễn Giải Cứu
+        Kazekage
+      enchantment:
+      - "17:9"
+- name: §l§c【§6QUÁI§c】§r§f Hyuga §eLV 100
+  skin: dan_hyuga
+  maxhealth: 3000
+  damage: 33
+  speed: 1
+  posX: 231.522100
+  posY: 67.000000
+  posZ: 290.547900
+  level: dropnew
+  drops:
+  - "363:0:1"
+  scale: 1
+  commands:
+  - boss cooldown 27 30
+  custom-item:
+    1:
+      id: "396:0:1"
+      chance: 20
+      name: §l§6Lệnh Nhẫn Giả
+      lore: §l§aSử dụng nhận được 2 điểm tiềm năng
+      enchantment:
+      - "17:9"
+    2:
+      id: "378:0:1"
+      chance: 80
+      name: §l§cĐan Chakra Tổng - Đại
+      lore: §l§aKhi Dùng Sẽ Nhận Được 25 Điểm Chakra Tổng
+      enchantment:
+      - "17:5"
+    3:
+      id: "369:0:1"
+      chance: 50
+      name: §l§eMảnh Kiếm ANBU
+      lore: §l§aTích Đủ 60 Mảnh Click Xuống Đất Để Chế Tạo Tự Động Thành Kiếm ANBU
+      enchantment:
+      - "17:5"
+- name: §l§c【§6QUÁI§c】§r§f Hyuga §eLV 100
+  skin: dan_hyuga
+  maxhealth: 3000
+  damage: 33
+  speed: 1
+  posX: 231.649000
+  posY: 67.000000
+  posZ: 288.827800
+  level: dropnew
+  drops:
+  - "363:0:1"
+  scale: 1
+  commands:
+  - boss cooldown 28 30
+  custom-item:
+    1:
+      id: "369:0:1"
+      chance: 50
+      name: §l§eMảnh Kiếm ANBU
+      lore: §l§aTích Đủ 60 Mảnh Click Xuống Đất Để Chế Tạo Tự Động Thành Kiếm ANBU
+      enchantment:
+      - "17:5"
+    2:
+      id: "377:0:1"
+      chance: 80
+      name: §l§cĐan Chakra Tổng - Tiểu
+      lore: §l§aKhi Dùng Sẽ Nhận Được 10 Điểm Chakra Tổng
+      enchantment:
+      - "17:5"
+    3:
+      id: "452:0:1"
+      chance: 50
+      name: §l§cCạnh Nhọn Shuriken
+      lore: §l§aTích Đủ 6 Mảnh Click Xuống Đất Để Chế Tạo Tự Động Thành Shuriken
+      enchantment:
+      - "17:5"
+    4:
+      id: "351:15:1"
+      chance: 0.100000
+      name: §l§eBụi Chakra §6#SK
+      lore: §l§aTích đủ 20 Mảnh Click Xuống Đất Để Nhận Đá Chakra
+      enchantment:
+      - "17:9"
+    5:
+      id: "372:0:1"
+      chance: 50
+      name: §l§cMảnh Ngọc Giải Cứu Kazekage
+      lore: §l§aTích đủ 10 Mảnh Click Xuống Đất Để Nhận Ngọc Dịch Chuyễn Giải Cứu
+        Kazekage
+      enchantment:
+      - "17:9"
+- name: §l§c【§6QUÁI§c】§r§f Hyuga §eLV 100
+  skin: dan_hyuga
+  maxhealth: 3000
+  damage: 33
+  speed: 1
+  posX: 233.662600
+  posY: 67.000000
+  posZ: 293.156000
+  level: dropnew
+  drops:
+  - "363:0:1"
+  scale: 1
+  commands:
+  - boss cooldown 29 30
+  custom-item:
+    1:
+      id: "369:0:1"
+      chance: 50
+      name: §l§eMảnh Kiếm ANBU
+      lore: §l§aTích Đủ 60 Mảnh Click Xuống Đất Để Chế Tạo Tự Động Thành Kiếm ANBU
+      enchantment:
+      - "17:5"
+    2:
+      id: "377:0:1"
+      chance: 80
+      name: §l§cĐan Chakra Tổng - Tiểu
+      lore: §l§aKhi Dùng Sẽ Nhận Được 10 Điểm Chakra Tổng
+      enchantment:
+      - "17:5"
+    3:
+      id: "452:0:1"
+      chance: 50
+      name: §l§cCạnh Nhọn Shuriken
+      lore: §l§aTích Đủ 6 Mảnh Click Xuống Đất Để Chế Tạo Tự Động Thành Shuriken
+      enchantment:
+      - "17:5"
+    4:
+      id: "351:15:1"
+      chance: 80
+      name: §l§eBụi Chakra §6#SK
+      lore: §l§aTích đủ 20 Mảnh Click Xuống Đất Để Nhận Đá Chakra
+      enchantment:
+      - "17:9"
+    5:
+      id: "372:0:1"
+      chance: 50
+      name: §l§cMảnh Ngọc Giải Cứu Kazekage
+      lore: §l§aTích đủ 10 Mảnh Click Xuống Đất Để Nhận Ngọc Dịch Chuyễn Giải Cứu
+        Kazekage
+      enchantment:
+      - "17:9"
+- name: §l§c【§6QUÁI§c】§r§f Haku §eLV 150
+  skin: haku
+  maxhealth: 5000
+  damage: 42
+  speed: 1
+  posX: 269.693600
+  posY: 67.000000
+  posZ: 249.550400
+  level: dropnew
+  drops:
+  - "363:0:1"
+  scale: 1
+  commands:
+  - boss cooldown 30 30
+  custom-item:
+    1:
+      id: "372:0:1"
+      chance: 50
+      name: §l§cMảnh Ngọc Giải Cứu Kazekage
+      lore: §l§aTích đủ 10 Mảnh Click Xuống Đất Để Nhận Ngọc Dịch Chuyễn Giải Cứu
+        Kazekage
+      enchantment:
+      - "17:9"
+    2:
+      id: "396:0:1"
+      chance: 30
+      name: §l§6Lệnh Nhẫn Giả
+      lore: §l§aSử dụng nhận được 2 điểm tiềm năng
+      enchantment:
+      - "17:9"
+- name: §l§c【§6QUÁI§c】§r§f Haku §eLV 150
+  skin: haku
+  maxhealth: 5000
+  damage: 42
+  speed: 1
+  posX: 269.788500
+  posY: 67.000000
+  posZ: 251.057900
+  level: dropnew
+  drops:
+  - "363:0:1"
+  scale: 1
+  commands:
+  - boss cooldown 31 30
+  custom-item:
+    1:
+      id: "372:0:1"
+      chance: 50
+      name: §l§cMảnh Ngọc Giải Cứu Kazekage
+      lore: §l§aTích đủ 10 Mảnh Click Xuống Đất Để Nhận Ngọc Dịch Chuyễn Giải Cứu
+        Kazekage
+      enchantment:
+      - "17:9"
+    2:
+      id: "396:0:1"
+      chance: 30
+      name: §l§6Lệnh Nhẫn Giả
+      lore: §l§aSử dụng nhận được 2 điểm tiềm năng
+      enchantment:
+      - "17:9"
+- name: §l§c【§6QUÁI§c】§r§f Haku §eLV 150
+  skin: haku
+  maxhealth: 5000
+  damage: 42
+  speed: 1
+  posX: 267.693400
+  posY: 67.000000
+  posZ: 249.989900
+  level: dropnew
+  drops:
+  - "363:0:1"
+  scale: 1
+  commands:
+  - boss cooldown 32 30
+  custom-item:
+    1:
+      id: "372:0:1"
+      chance: 50
+      name: §l§cMảnh Ngọc Giải Cứu Kazekage
+      lore: §l§aTích đủ 10 Mảnh Click Xuống Đất Để Nhận Ngọc Dịch Chuyễn Giải Cứu
+        Kazekage
+      enchantment:
+      - "17:9"
+    2:
+      id: "396:0:1"
+      chance: 30
+      name: §l§6Lệnh Nhẫn Giả
+      lore: §l§aSử dụng nhận được 2 điểm tiềm năng
+      enchantment:
+      - "17:9"
+- name: §l§c【§6QUÁI§c】§r§f Haku §eLV 150
+  skin: haku
+  maxhealth: 5000
+  damage: 42
+  speed: 1
+  posX: 266.942100
+  posY: 67.000000
+  posZ: 247.968400
+  level: dropnew
+  drops:
+  - "363:0:1"
+  scale: 1
+  commands:
+  - boss cooldown 33 30
+  custom-item:
+    1:
+      id: "372:0:1"
+      chance: 50
+      name: §l§cMảnh Ngọc Giải Cứu Kazekage
+      lore: §l§aTích đủ 10 Mảnh Click Xuống Đất Để Nhận Ngọc Dịch Chuyễn Giải Cứu
+        Kazekage
+      enchantment:
+      - "17:9"
+    2:
+      id: "396:0:1"
+      chance: 30
+      name: §l§6Lệnh Nhẫn Giả
+      lore: §l§aSử dụng nhận được 2 điểm tiềm năng
+      enchantment:
+      - "17:9"
+- name: §l§c【§6AKATSUKI§c】§a KONAN §eLV 150
+  skin: konan
+  maxhealth: 50000
+  damage: 200
+  speed: 1
+  posX: 364.242400
+  posY: 45.000000
+  posZ: 225.101900
+  level: akatsuki
+  drops:
+  - "363:0:10"
+  scale: 1
+  commands:
+  - boss cooldown 34 1800
+  custom-item:
+    1:
+      id: "244:0:10"
+      chance: 50
+      name: §l§cMảnh Quần AKATSUKI
+      lore: §l§aTích đủ 63 Mảnh Click Xuống Đất Để Nhận Quần AKATSUKI
+      enchantment:
+      - "17:9"
+    2:
+      id: "351:0:10"
+      chance: 50
+      name: §l§cMảnh Giáp AKATSUKI
+      lore: §l§aTích đủ 64 Mảnh Click Xuống Đất Để Nhận Quần AKATSUKI
+      enchantment:
+      - "17:9"
+    3:
+      id: 351:15:60
+      chance: 0.100000
+      name: §l§eBụi Chakra §6#SK
+      lore: §l§aTích đủ 20 Mảnh Click Xuống Đất Để Nhận Đá Chakra
+      enchantment:
+      - "17:9"
+    4:
+      id: "244:0:10"
+      chance: 50
+      name: §l§cMảnh Mũ AKATSUKI
+      lore: §l§aTích đủ 63 Mảnh Click Xuống Đất Để Nhận Mũ AKATSUKI
+      enchantment:
+      - "17:9"
+    5:
+      id: "406:0:10"
+      chance: 50
+      name: §l§cMảnh Giày AKATSUKI
+      lore: §l§aTích đủ 64 Mảnh Click Xuống Đất Để Nhận Giày AKATSUKI
+      enchantment:
+      - "17:9"
+    6:
+      id: "396:0:5"
+      chance: 50
+      name: §l§6Lệnh Nhẫn Giả
+      lore: §l§aSử dụng nhận được 1 điểm tiềm năng
+      enchantment:
+      - "17:9"
+    7:
+      id: "340:0:1"
+      chance: 0.500000
+      name: §l§c~!§e Sách Ám Bộ§c !~
+      lore: §l§aSử dụng nhận được quà Ám Bộ
+      enchantment:
+      - "17:9"
+- name: §l§c【§6AKATSUKI§c】§a NAGATO §eLV 200
+  skin: nagato
+  maxhealth: 100000
+  damage: 350
+  speed: 1
+  posX: 373.494700
+  posY: 45.000000
+  posZ: 180.285100
+  level: akatsuki
+  drops:
+  - "363:0:10"
+  scale: 1
+  commands:
+  - boss cooldown 35 1800
+  custom-item:
+    1:
+      id: "244:0:10"
+      chance: 60
+      name: §l§cMảnh Quần AKATSUKI
+      lore: §l§aTích đủ 63 Mảnh Click Xuống Đất Để Nhận Quần AKATSUKI
+      enchantment:
+      - "17:9"
+    2:
+      id: "351:0:10"
+      chance: 60
+      name: §l§cMảnh Giáp AKATSUKI
+      lore: §l§aTích đủ 64 Mảnh Click Xuống Đất Để Nhận Quần AKATSUKI
+      enchantment:
+      - "17:9"
+    3:
+      id: 351:15:60
+      chance: 0.100000
+      name: §l§eBụi Chakra §6#SK
+      lore: §l§aTích đủ 20 Mảnh Click Xuống Đất Để Nhận Đá Chakra
+      enchantment:
+      - "17:9"
+    4:
+      id: "244:0:10"
+      chance: 60
+      name: §l§cMảnh Mũ AKATSUKI
+      lore: §l§aTích đủ 63 Mảnh Click Xuống Đất Để Nhận Mũ AKATSUKI
+      enchantment:
+      - "17:9"
+    5:
+      id: "406:0:10"
+      chance: 60
+      name: §l§cMảnh Giày AKATSUKI
+      lore: §l§aTích đủ 64 Mảnh Click Xuống Đất Để Nhận Giày AKATSUKI
+      enchantment:
+      - "17:9"
+    6:
+      id: "396:0:5"
+      chance: 60
+      name: §l§6Lệnh Nhẫn Giả
+      lore: §l§aSử dụng nhận được 1 điểm tiềm năng
+      enchantment:
+      - "17:9"
+    7:
+      id: "340:0:1"
+      chance: 0.500000
+      name: §l§c~!§e Sách Ám Bộ§c !~
+      lore: §l§aSử dụng nhận được quà Ám Bộ
+      enchantment:
+      - "17:9"
+- name: §l§c【§6AKATSUKI§c】§a ZETSU §eLV 300
+  skin: zetsu
+  maxhealth: 180000
+  damage: 500
+  speed: 1
+  posX: 333.598100
+  posY: 45.000000
+  posZ: 152.219300
+  level: akatsuki
+  drops:
+  - "363:0:10"
+  scale: 1
+  commands:
+  - boss cooldown 36 1800
+  custom-item:
+    1:
+      id: "244:0:10"
+      chance: 50
+      name: §l§cMảnh Quần AKATSUKI
+      lore: §l§aTích đủ 63 Mảnh Click Xuống Đất Để Nhận Quần AKATSUKI
+      enchantment:
+      - "17:9"
+    2:
+      id: "351:0:10"
+      chance: 50
+      name: §l§cMảnh Giáp AKATSUKI
+      lore: §l§aTích đủ 64 Mảnh Click Xuống Đất Để Nhận Quần AKATSUKI
+      enchantment:
+      - "17:9"
+    3:
+      id: 351:15:60
+      chance: 0.100000
+      name: §l§eBụi Chakra §6#SK
+      lore: §l§aTích đủ 20 Mảnh Click Xuống Đất Để Nhận Đá Chakra
+      enchantment:
+      - "17:9"
+    4:
+      id: "244:0:10"
+      chance: 50
+      name: §l§cMảnh Mũ AKATSUKI
+      lore: §l§aTích đủ 63 Mảnh Click Xuống Đất Để Nhận Mũ AKATSUKI
+      enchantment:
+      - "17:9"
+    5:
+      id: "406:0:10"
+      chance: 50
+      name: §l§cMảnh Giày AKATSUKI
+      lore: §l§aTích đủ 64 Mảnh Click Xuống Đất Để Nhận Giày AKATSUKI
+      enchantment:
+      - "17:9"
+    6:
+      id: "396:0:5"
+      chance: 50
+      name: §l§6Lệnh Nhẫn Giả
+      lore: §l§aSử dụng nhận được 1 điểm tiềm năng
+      enchantment:
+      - "17:9"
+    7:
+      id: "244:0:10"
+      chance: 50
+      name: §l§cMảnh Quần AKATSUKI
+      lore: §l§aTích đủ 63 Mảnh Click Xuống Đất Để Nhận Quần AKATSUKI
+      enchantment:
+      - "17:9"
+    8:
+      id: "351:0:10"
+      chance: 50
+      name: §l§cMảnh Giáp AKATSUKI
+      lore: §l§aTích đủ 64 Mảnh Click Xuống Đất Để Nhận Quần AKATSUKI
+      enchantment:
+      - "17:9"
+    9:
+      id: 351:15:60
+      chance: 0.100000
+      name: §l§eBụi Chakra §6#SK
+      lore: §l§aTích đủ 20 Mảnh Click Xuống Đất Để Nhận Đá Chakra
+      enchantment:
+      - "17:9"
+    10:
+      id: "244:0:10"
+      chance: 50
+      name: §l§cMảnh Mũ AKATSUKI
+      lore: §l§aTích đủ 63 Mảnh Click Xuống Đất Để Nhận Mũ AKATSUKI
+      enchantment:
+      - "17:9"
+    11:
+      id: "406:0:10"
+      chance: 50
+      name: §l§cMảnh Giày AKATSUKI
+      lore: §l§aTích đủ 64 Mảnh Click Xuống Đất Để Nhận Giày AKATSUKI
+      enchantment:
+      - "17:9"
+    12:
+      id: "396:0:5"
+      chance: 50
+      name: §l§6Lệnh Nhẫn Giả
+      lore: §l§aSử dụng nhận được 1 điểm tiềm năng
+      enchantment:
+      - "17:9"
+    13:
+      id: "340:0:1"
+      chance: 0.500000
+      name: §l§c~!§e Sách Ám Bộ§c !~
+      lore: §l§aSử dụng nhận được quà Ám Bộ
+      enchantment:
+      - "17:9"
+- name: §l§c【§6AKATSUKI§c】§a OBITO §eLV 450
+  skin: obito
+  maxhealth: 250000
+  damage: 700
+  speed: 1
+  posX: 303.018500
+  posY: 45.000000
+  posZ: 167.382200
+  level: akatsuki
+  drops:
+  - "363:0:10"
+  scale: 1
+  commands:
+  - boss cooldown 37 1800
+  custom-item:
+    1:
+      id: "244:0:10"
+      chance: 50
+      name: §l§cMảnh Quần AKATSUKI
+      lore: §l§aTích đủ 63 Mảnh Click Xuống Đất Để Nhận Quần AKATSUKI
+      enchantment:
+      - "17:9"
+    2:
+      id: "351:0:10"
+      chance: 50
+      name: §l§cMảnh Giáp AKATSUKI
+      lore: §l§aTích đủ 64 Mảnh Click Xuống Đất Để Nhận Quần AKATSUKI
+      enchantment:
+      - "17:9"
+    3:
+      id: 351:15:60
+      chance: 0.100000
+      name: §l§eBụi Chakra §6#SK
+      lore: §l§aTích đủ 20 Mảnh Click Xuống Đất Để Nhận Đá Chakra
+      enchantment:
+      - "17:9"
+    4:
+      id: "244:0:10"
+      chance: 50
+      name: §l§cMảnh Mũ AKATSUKI
+      lore: §l§aTích đủ 63 Mảnh Click Xuống Đất Để Nhận Mũ AKATSUKI
+      enchantment:
+      - "17:9"
+    5:
+      id: "406:0:10"
+      chance: 50
+      name: §l§cMảnh Giày AKATSUKI
+      lore: §l§aTích đủ 64 Mảnh Click Xuống Đất Để Nhận Giày AKATSUKI
+      enchantment:
+      - "17:9"
+    6:
+      id: "396:0:5"
+      chance: 50
+      name: §l§6Lệnh Nhẫn Giả
+      lore: §l§aSử dụng nhận được 1 điểm tiềm năng
+      enchantment:
+      - "17:9"
+    7:
+      id: "244:0:10"
+      chance: 70
+      name: §l§cMảnh Quần AKATSUKI
+      lore: §l§aTích đủ 63 Mảnh Click Xuống Đất Để Nhận Quần AKATSUKI
+      enchantment:
+      - "17:9"
+    8:
+      id: "351:0:10"
+      chance: 70
+      name: §l§cMảnh Giáp AKATSUKI
+      lore: §l§aTích đủ 64 Mảnh Click Xuống Đất Để Nhận Quần AKATSUKI
+      enchantment:
+      - "17:9"
+    9:
+      id: 351:15:60
+      chance: 0.100000
+      name: §l§eBụi Chakra §6#SK
+      lore: §l§aTích đủ 20 Mảnh Click Xuống Đất Để Nhận Đá Chakra
+      enchantment:
+      - "17:9"
+    10:
+      id: "244:0:10"
+      chance: 70
+      name: §l§cMảnh Mũ AKATSUKI
+      lore: §l§aTích đủ 63 Mảnh Click Xuống Đất Để Nhận Mũ AKATSUKI
+      enchantment:
+      - "17:9"
+    11:
+      id: "406:0:10"
+      chance: 70
+      name: §l§cMảnh Giày AKATSUKI
+      lore: §l§aTích đủ 64 Mảnh Click Xuống Đất Để Nhận Giày AKATSUKI
+      enchantment:
+      - "17:9"
+    12:
+      id: "396:0:5"
+      chance: 70
+      name: §l§6Lệnh Nhẫn Giả
+      lore: §l§aSử dụng nhận được 1 điểm tiềm năng
+      enchantment:
+      - "17:9"
+    13:
+      id: "340:0:1"
+      chance: 0.500000
+      name: §l§c~!§e Sách Ám Bộ§c !~
+      lore: §l§aSử dụng nhận được quà Ám Bộ
+      enchantment:
+      - "17:9"
+    14:
+      id: "340:0:1"
+      chance: 0.500000
+      name: §l§c~!§e Sách Ám Bộ§a Bậc S§c !~
+      lore: §l§aSử dụng nhận được quà Ám Bộ
+      enchantment:
+      - "17:9"
+- name: §l§c【§6AKATSUKI§c】§a HIDAN §eLV 500
+  skin: hidan
+  maxhealth: 400000
+  damage: 900
+  speed: 1
+  posX: 286.216500
+  posY: 45.000000
+  posZ: 202.981700
+  level: akatsuki
+  drops:
+  - "363:0:10"
+  scale: 1
+  commands:
+  - boss cooldown 38 1800
+  custom-item:
+    1:
+      id: "244:0:10"
+      chance: 50
+      name: §l§cMảnh Quần AKATSUKI
+      lore: §l§aTích đủ 63 Mảnh Click Xuống Đất Để Nhận Quần AKATSUKI
+      enchantment:
+      - "17:9"
+    2:
+      id: "351:0:10"
+      chance: 50
+      name: §l§cMảnh Giáp AKATSUKI
+      lore: §l§aTích đủ 64 Mảnh Click Xuống Đất Để Nhận Quần AKATSUKI
+      enchantment:
+      - "17:9"
+    3:
+      id: 351:15:60
+      chance: 0.100000
+      name: §l§eBụi Chakra §6#SK
+      lore: §l§aTích đủ 20 Mảnh Click Xuống Đất Để Nhận Đá Chakra
+      enchantment:
+      - "17:9"
+    4:
+      id: "244:0:10"
+      chance: 50
+      name: §l§cMảnh Mũ AKATSUKI
+      lore: §l§aTích đủ 63 Mảnh Click Xuống Đất Để Nhận Mũ AKATSUKI
+      enchantment:
+      - "17:9"
+    5:
+      id: "406:0:10"
+      chance: 50
+      name: §l§cMảnh Giày AKATSUKI
+      lore: §l§aTích đủ 64 Mảnh Click Xuống Đất Để Nhận Giày AKATSUKI
+      enchantment:
+      - "17:9"
+    6:
+      id: "396:0:5"
+      chance: 50
+      name: §l§6Lệnh Nhẫn Giả
+      lore: §l§aSử dụng nhận được 1 điểm tiềm năng
+      enchantment:
+      - "17:9"
+    7:
+      id: "244:0:20"
+      chance: 50
+      name: §l§cMảnh Quần AKATSUKI
+      lore: §l§aTích đủ 63 Mảnh Click Xuống Đất Để Nhận Quần AKATSUKI
+      enchantment:
+      - "17:9"
+    8:
+      id: "351:0:20"
+      chance: 50
+      name: §l§cMảnh Giáp AKATSUKI
+      lore: §l§aTích đủ 64 Mảnh Click Xuống Đất Để Nhận Quần AKATSUKI
+      enchantment:
+      - "17:9"
+    9:
+      id: 351:15:64
+      chance: 0.100000
+      name: §l§eBụi Chakra §6#SK
+      lore: §l§aTích đủ 20 Mảnh Click Xuống Đất Để Nhận Đá Chakra
+      enchantment:
+      - "17:9"
+    10:
+      id: "244:0:20"
+      chance: 50
+      name: §l§cMảnh Mũ AKATSUKI
+      lore: §l§aTích đủ 63 Mảnh Click Xuống Đất Để Nhận Mũ AKATSUKI
+      enchantment:
+      - "17:9"
+    11:
+      id: "406:0:20"
+      chance: 50
+      name: §l§cMảnh Giày AKATSUKI
+      lore: §l§aTích đủ 64 Mảnh Click Xuống Đất Để Nhận Giày AKATSUKI
+      enchantment:
+      - "17:9"
+    12:
+      id: "396:0:10"
+      chance: 50
+      name: §l§6Lệnh Nhẫn Giả
+      lore: §l§aSử dụng nhận được 1 điểm tiềm năng
+      enchantment:
+      - "17:9"
+    13:
+      id: "340:0:1"
+      chance: 0.500000
+      name: §l§c~!§e Sách Ám Bộ§c !~
+      lore: §l§aSử dụng nhận được quà Ám Bộ
+      enchantment:
+      - "17:9"
+    14:
+      id: "340:0:1"
+      chance: 0.500000
+      name: §l§c~!§e Sách Ám Bộ§a Bậc S§c !~
+      lore: §l§aSử dụng nhận được quà Ám Bộ
+      enchantment:
+      - "17:9"
+- name: §l§c【§6AKATSUKI§c】§a KISAME §eLV 550
+  skin: kisame
+  maxhealth: 550000
+  damage: 1150
+  speed: 1
+  posX: 313.284400
+  posY: 45.000000
+  posZ: 241.672100
+  level: akatsuki
+  drops:
+  - "363:0:10"
+  scale: 1
+  commands:
+  - boss cooldown 39 1800
+  custom-item:
+    1:
+      id: "244:0:10"
+      chance: 50
+      name: §l§cMảnh Quần AKATSUKI
+      lore: §l§aTích đủ 63 Mảnh Click Xuống Đất Để Nhận Quần AKATSUKI
+      enchantment:
+      - "17:9"
+    2:
+      id: "351:0:10"
+      chance: 50
+      name: §l§cMảnh Giáp AKATSUKI
+      lore: §l§aTích đủ 64 Mảnh Click Xuống Đất Để Nhận Quần AKATSUKI
+      enchantment:
+      - "17:9"
+    3:
+      id: 351:15:60
+      chance: 0.100000
+      name: §l§eBụi Chakra §6#SK
+      lore: §l§aTích đủ 20 Mảnh Click Xuống Đất Để Nhận Đá Chakra
+      enchantment:
+      - "17:9"
+    4:
+      id: "244:0:10"
+      chance: 50
+      name: §l§cMảnh Mũ AKATSUKI
+      lore: §l§aTích đủ 63 Mảnh Click Xuống Đất Để Nhận Mũ AKATSUKI
+      enchantment:
+      - "17:9"
+    5:
+      id: "406:0:10"
+      chance: 50
+      name: §l§cMảnh Giày AKATSUKI
+      lore: §l§aTích đủ 64 Mảnh Click Xuống Đất Để Nhận Giày AKATSUKI
+      enchantment:
+      - "17:9"
+    6:
+      id: "396:0:5"
+      chance: 50
+      name: §l§6Lệnh Nhẫn Giả
+      lore: §l§aSử dụng nhận được 1 điểm tiềm năng
+      enchantment:
+      - "17:9"
+    7:
+      id: "244:0:10"
+      chance: 80
+      name: §l§cMảnh Quần AKATSUKI
+      lore: §l§aTích đủ 63 Mảnh Click Xuống Đất Để Nhận Quần AKATSUKI
+      enchantment:
+      - "17:9"
+    8:
+      id: "351:0:10"
+      chance: 80
+      name: §l§cMảnh Giáp AKATSUKI
+      lore: §l§aTích đủ 64 Mảnh Click Xuống Đất Để Nhận Quần AKATSUKI
+      enchantment:
+      - "17:9"
+    9:
+      id: 351:15:60
+      chance: 0.100000
+      name: §l§eBụi Chakra §6#SK
+      lore: §l§aTích đủ 20 Mảnh Click Xuống Đất Để Nhận Đá Chakra
+      enchantment:
+      - "17:9"
+    10:
+      id: "244:0:10"
+      chance: 80
+      name: §l§cMảnh Mũ AKATSUKI
+      lore: §l§aTích đủ 63 Mảnh Click Xuống Đất Để Nhận Mũ AKATSUKI
+      enchantment:
+      - "17:9"
+    11:
+      id: "406:0:10"
+      chance: 80
+      name: §l§cMảnh Giày AKATSUKI
+      lore: §l§aTích đủ 64 Mảnh Click Xuống Đất Để Nhận Giày AKATSUKI
+      enchantment:
+      - "17:9"
+    12:
+      id: "396:0:5"
+      chance: 80
+      name: §l§6Lệnh Nhẫn Giả
+      lore: §l§aSử dụng nhận được 1 điểm tiềm năng
+      enchantment:
+      - "17:9"
+    13:
+      id: "406:0:10"
+      chance: 100
+      name: §l§cMảnh Giày AKATSUKI
+      lore: §l§aTích đủ 64 Mảnh Click Xuống Đất Để Nhận Giày AKATSUKI
+      enchantment:
+      - "17:9"
+    14:
+      id: "340:0:1"
+      chance: 0.500000
+      name: §l§c~!§e Sách Ám Bộ§c !~
+      lore: §l§aSử dụng nhận được quà Ám Bộ
+      enchantment:
+      - "17:9"
+    15:
+      id: "340:0:1"
+      chance: 0.500000
+      name: §l§c~!§e Sách Ám Bộ§a Bậc S§c !~
+      lore: §l§aSử dụng nhận được quà Ám Bộ
+      enchantment:
+      - "17:9"
+- name: §l§c【§6AKATSUKI§c】§a KAKUZU §eLV 700
+  skin: kakuzu
+  maxhealth: 700000
+  damage: 1350
+  speed: 1
+  posX: 344.810600
+  posY: 45.000000
+  posZ: 249.913500
+  level: akatsuki
+  drops:
+  - "363:0:10"
+  scale: 1
+  commands:
+  - boss cooldown 40 1800
+  custom-item:
+    1:
+      id: "244:0:10"
+      chance: 50
+      name: §l§cMảnh Quần AKATSUKI
+      lore: §l§aTích đủ 63 Mảnh Click Xuống Đất Để Nhận Quần AKATSUKI
+      enchantment:
+      - "17:9"
+    2:
+      id: "351:0:10"
+      chance: 50
+      name: §l§cMảnh Giáp AKATSUKI
+      lore: §l§aTích đủ 64 Mảnh Click Xuống Đất Để Nhận Quần AKATSUKI
+      enchantment:
+      - "17:9"
+    3:
+      id: 351:15:60
+      chance: 0.100000
+      name: §l§eBụi Chakra §6#SK
+      lore: §l§aTích đủ 20 Mảnh Click Xuống Đất Để Nhận Đá Chakra
+      enchantment:
+      - "17:9"
+    4:
+      id: "244:0:10"
+      chance: 50
+      name: §l§cMảnh Mũ AKATSUKI
+      lore: §l§aTích đủ 63 Mảnh Click Xuống Đất Để Nhận Mũ AKATSUKI
+      enchantment:
+      - "17:9"
+    5:
+      id: "406:0:10"
+      chance: 50
+      name: §l§cMảnh Giày AKATSUKI
+      lore: §l§aTích đủ 64 Mảnh Click Xuống Đất Để Nhận Giày AKATSUKI
+      enchantment:
+      - "17:9"
+    6:
+      id: "396:0:5"
+      chance: 50
+      name: §l§6Lệnh Nhẫn Giả
+      lore: §l§aSử dụng nhận được 1 điểm tiềm năng
+      enchantment:
+      - "17:9"
+    7:
+      id: "244:0:10"
+      chance: 80
+      name: §l§cMảnh Quần AKATSUKI
+      lore: §l§aTích đủ 63 Mảnh Click Xuống Đất Để Nhận Quần AKATSUKI
+      enchantment:
+      - "17:9"
+    8:
+      id: "351:0:10"
+      chance: 80
+      name: §l§cMảnh Giáp AKATSUKI
+      lore: §l§aTích đủ 64 Mảnh Click Xuống Đất Để Nhận Quần AKATSUKI
+      enchantment:
+      - "17:9"
+    9:
+      id: 351:15:60
+      chance: 0.100000
+      name: §l§eBụi Chakra §6#SK
+      lore: §l§aTích đủ 20 Mảnh Click Xuống Đất Để Nhận Đá Chakra
+      enchantment:
+      - "17:9"
+    10:
+      id: "244:0:10"
+      chance: 80
+      name: §l§cMảnh Mũ AKATSUKI
+      lore: §l§aTích đủ 63 Mảnh Click Xuống Đất Để Nhận Mũ AKATSUKI
+      enchantment:
+      - "17:9"
+    11:
+      id: "406:0:10"
+      chance: 80
+      name: §l§cMảnh Giày AKATSUKI
+      lore: §l§aTích đủ 64 Mảnh Click Xuống Đất Để Nhận Giày AKATSUKI
+      enchantment:
+      - "17:9"
+    12:
+      id: "396:0:5"
+      chance: 80
+      name: §l§6Lệnh Nhẫn Giả
+      lore: §l§aSử dụng nhận được 1 điểm tiềm năng
+      enchantment:
+      - "17:9"
+    13:
+      id: "244:0:10"
+      chance: 100
+      name: §l§cMảnh Quần AKATSUKI
+      lore: §l§aTích đủ 63 Mảnh Click Xuống Đất Để Nhận Quần AKATSUKI
+      enchantment:
+      - "17:9"
+    14:
+      id: "340:0:1"
+      chance: 0.500000
+      name: §l§c~!§e Sách Ám Bộ§c !~
+      lore: §l§aSử dụng nhận được quà Ám Bộ
+      enchantment:
+      - "17:9"
+    15:
+      id: "340:0:1"
+      chance: 0.500000
+      name: §l§c~!§e Sách Ám Bộ§a Bậc S§c !~
+      lore: §l§aSử dụng nhận được quà Ám Bộ
+      enchantment:
+      - "17:9"
+- name: §l§c【§6AKATSUKI§c】§a ITACHI §eLV 850
+  skin: itachi
+  maxhealth: 1000000
+  damage: 2000
+  speed: 1
+  posX: 329.103300
+  posY: 45.000000
+  posZ: 222.771800
+  level: akatsuki
+  drops:
+  - "363:0:10"
+  scale: 1
+  commands:
+  - boss cooldown 41 1800
+  custom-item:
+    1:
+      id: "244:0:20"
+      chance: 95
+      name: §l§cMảnh Quần AKATSUKI
+      lore: §l§aTích đủ 63 Mảnh Click Xuống Đất Để Nhận Quần AKATSUKI
+      enchantment:
+      - "17:9"
+    2:
+      id: "351:0:20"
+      chance: 95
+      name: §l§cMảnh Giáp AKATSUKI
+      lore: §l§aTích đủ 64 Mảnh Click Xuống Đất Để Nhận Quần AKATSUKI
+      enchantment:
+      - "17:9"
+    3:
+      id: 351:15:120
+      chance: 0.100000
+      name: §l§eBụi Chakra §6#SK
+      lore: §l§aTích đủ 20 Mảnh Click Xuống Đất Để Nhận Đá Chakra
+      enchantment:
+      - "17:9"
+    4:
+      id: "244:0:20"
+      chance: 95
+      name: §l§cMảnh Mũ AKATSUKI
+      lore: §l§aTích đủ 63 Mảnh Click Xuống Đất Để Nhận Mũ AKATSUKI
+      enchantment:
+      - "17:9"
+    5:
+      id: "406:0:20"
+      chance: 95
+      name: §l§cMảnh Giày AKATSUKI
+      lore: §l§aTích đủ 64 Mảnh Click Xuống Đất Để Nhận Giày AKATSUKI
+      enchantment:
+      - "17:9"
+    6:
+      id: "396:0:10"
+      chance: 95
+      name: §l§6Lệnh Nhẫn Giả
+      lore: §l§aSử dụng nhận được 1 điểm tiềm năng
+      enchantment:
+      - "17:9"
+    7:
+      id: "340:0:1"
+      chance: 0.500000
+      name: §l§c~!§e Sách Ám Bộ§a Bậc S§c !~
+      lore: §l§aSử dụng nhận được quà Ám Bộ
+      enchantment:
+      - "17:9"
+    8:
+      id: "340:0:1"
+      chance: 0.500000
+      name: §l§c~!§e Sách Ám Bộ§a Bậc Ss§c !~
+      lore: §l§aSử dụng nhận được quà Ám Bộ
+      enchantment:
+      - "17:9"
+- name: §l§c【§6NHẤT VĨ§c】§a SHUKAKU
+  skin: shukaku
+  maxhealth: 50000
+  damage: 100
+  speed: 2.500000
+  posX: 328.508100
+  posY: 76.000000
+  posZ: 327.905000
+  level: warzone
+  drops:
+  - "1:0:1"
+  - 4:0:64
+  scale: 10
+  commands:
+  - boss cooldown 43 18000
+  custom-item:
+    1:
+      id: "278:0:1"
+      chance: 50
+      name: §l§aSuper Pickaxe
+      lore: §l§aRARITY:§e **
+      enchantment:
+      - "17:5"
+      - "15:8"
+...

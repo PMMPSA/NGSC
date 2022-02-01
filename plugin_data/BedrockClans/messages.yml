@@ -1,0 +1,152 @@
+---
+# BedrockClans - Copyright 2019 Wertzui123
+
+# Here you can edit the messages of BedrockClans to adjust them to your server.
+# Note: Use § for colors!
+
+# /clan create
+
+create_provide_name: "§cVui lòng cung cấp tên Clan!"
+
+create_no_permission: "§cBạn không được phép thành lập Clan!"
+
+create_name_is_banned: "§cTên Clan này bị cấm. Bạn không thể sử dụng nó!"
+
+create_not_enought_money: "§cBạn không có đủ tiền để thành lập một Clan!"
+
+economy_plugin_was_not_found: "§cEconmyAPI không được tìm thấy!"
+
+create_create_succes: "§aClan đã được thành lập."
+
+create_already_exist: "§cĐã có một Clan có tên đó! Vui lòng thử với cái khác."
+
+create_already_in_clan: "§cBạn đã ở trong một Clan. Bạn phải Rời khỏi đó trước khi thực hiện điều này!"
+
+# /clan info
+
+info_not_in_clan: "§cBạn chưa gia nhập một Clan nào!"
+
+info_info_about_your_clan: "§eThông tin về {clanname}:\n§bLeader: §c{leader}\n§bMembers: §c{members}"
+
+info_clan_does_not_exist: "§cKhông có Clan nào có tên đó!"
+
+info_info_about_an_other_clan: "§eThông tin về {clanname}:\n§bLeader: §c{leader}\n§bMembers: §c{members}"
+
+# /clan join
+
+join_clan_does_not_exist: "§cKhông có Clan nào có tên đó!"
+
+join_joined_clan: "§aBạn đã gia nhập Clan {clan}"
+
+join_already_in_clan: "§cBạn đã ở trong một Clan. Bạn phải Rời khỏi đó trước khi thực hiện điều này!"
+
+join_player_joined_clan: "§6{playername} §aĐã gia nhập Clan!"
+
+join_provide_clan: "§cBạn phải cung cấp một Clan để tham gia!"
+
+# /clan leave
+
+leave_leaved_clan: "§aBạn rời khỏi Clan của bạn "
+
+leave_cannot_leave: "§cBạn là người lãnh đạo, vì vậy bạn không thể rời đi. Vui lòng xóa Clan với  §e/clan delete §cfirst!"
+
+leave_not_in_clan: "§cBạn không ở trong một Clan!"
+
+leave_player_leaved_clan: "§6{player} §cĐã rời khỏi Clan!"
+
+# /clan leader
+
+leader_promoted_to_leader: "§aBạn đã thăng hạng {player} lên thủ lĩnh nhóm mới!"
+
+leader_now_leader: "§aBây giờ bạn là người lãnh đạo của Clan bạn!"
+
+leader_not_in_your_clan: "§c{player} không thuộc Clan của bạn!"
+
+leader_provide_player: "§cVui lòng cung cấp một người chơi mới làm lãnh đạo!"
+
+leader_not_leader: "§cBạn không phải là nhà lãnh đạo, vì vậy bạn không thể thăng chức!"
+
+leader_not_in_clan: "§cBạn không ở trong một Clan!"
+
+# /clan chat
+
+chat_disabled: "§cTính năng này bị tắt!"
+
+chat_not_in_clan: "§cBạn không ở trong một Clan!"
+
+chat_provide_message: "§cVui lòng cung cấp một tin nhắn để gửi cho Clan của bạn!"
+
+# /clan  kick
+
+kick_cannot_kick_leader: "§cBạn không thể đá người lãnh đạo Clan của bạn!"
+
+kick_kicked: "§cBạn đã bị đuổi khỏi Clan của bạn bởi §e{player}§c!"
+
+kick_player_not_exists: "§cNgười chơi đã cho không thuộc Clan của bạn!"
+
+kick_not_leader: "§cBạn không phải là thủ lĩnh, vì vậy bạn không thể đá."
+
+kick_not_in_clan: "§cBạn không ở trong một Clan!"
+
+kick_provide_player: "§cVui lòng cung cấp một người chơi để đá!"
+
+kick_kicked_sender: "§aBạn đã đá §6{player} §ara khỏi Clan của mình!"
+
+# /clan delete
+
+delete_clan_deleted: "§aBạn đã xóa Clan của mình."
+
+delete_not_leader: "§cBạn không phải là thủ lĩnh, vì vậy bạn không thể xóa Clan!"
+
+delete_not_in_clan: "§cBạn không ở trong một Clan!"
+
+delete_clan_deleted_members: "§6Clan của bạn đã bị xóa!"
+
+
+
+# /clan invite
+
+invite_were_invited: "§6Bạn đã được mời vào Clan {clan} bởi {player}"
+
+invite_invite_expired: "§cLời mời đến {clan} bởi {player} hết hạn!"
+
+invite_invite_expired_sender: "§cLời mời của bạn đến {player} hết hạn!"
+
+invite_player_does_not_exist: "§cTrình phát này không tồn tại!"
+
+invite_in_same_clan: "§cNgười chơi nhất định đã có trong Clan của bạn!"
+
+invite_provide_player: "§cVui lòng cung cấp một người chơi để mời!"
+
+invite_already_invited: "§cNgười chơi này đã được mời!"
+
+invite_invited: "§aBạn mời thành công {player} vào Clan của mình!"
+
+invite_already_in_clan: "§cNgười chơi đó đã ở trong một Clan!"
+
+invite_not_in_clan: "§cBạn không ở trong một Clan!"
+
+# /clan accept
+
+accept_accepted_invite: "§6Bạn đã chấp nhận lời mời đến §b{clan}"
+
+accept_not_invited: "§cBạn không được mời vào Clan này!"
+
+accept_clan_does_not_exist: "§cClan này không tồn tại!"
+
+accept_provide_clan: "§cVui lòng cung cấp một Clan để tham gia!"
+
+accept_already_in_clan: "§cBạn đã ở trong một Clan!"
+
+# /clan help
+
+help_help_list: "§bClan §cHelp:\n§e/clan help §d- §6Displays this list of available commands\n§e/clan create <clanname> §d- §6Creates a clan\n§e/clan info [clanname] §d- §6Gives you information about your/a clan\n§e/clan invite <playername> §d- §6Let you invite players to your clan\n§e/clan accept <clanname> §d- §6Accept clan invites\n§e/clan join <clanname> §d- §6Join a clan (only for staff)\n§e/clan leave §d- §6Leave a clan\n§e/clan leader <playername> §d- §6Promotes a player to the clan leader\n§e/clan chat <message> §d- §6Sends a message to your clan\n§e/clan kick <playername> §d- §6Kicks the given player from the clan\n§e/clan delete §d- §6Deletes your clan\n§e/clan about §d- §6Shows you the credits and the version"
+
+# Other
+
+run_in_game: "§cPlease run this command ingame!"
+
+no_permission: "§cYou're not allowed to do this!"
+
+cannot_use_subcommand: "§cYou cannot use this subcommand!"
+...

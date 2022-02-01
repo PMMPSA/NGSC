@@ -1,0 +1,8 @@
+# Updated 08/19/20 07:32 by PocketMine-MP 3.15.0
+# victim name | ban date | banned by | banned until | reason
+
+113.161.185.24|2020-07-28 06:52:52 -0800|TranThiAnhVy|Forever|
+14.245.212.71|2020-08-04 08:05:36 -0800|TranThiAnhVy|Forever|hack killarura + hitbox
+103.199.43.247|2020-08-17 01:55:16 -0800|CONSOLE|Forever|
+14.186.163.88|2020-08-18 19:26:01 -0800|CONSOLE|Forever|
+14.186.238.202|2020-08-19 07:32:50 -0800|CONSOLE|Forever|

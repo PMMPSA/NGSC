@@ -1,0 +1,6 @@
+---
+name: Scoreboard
+version: 0.0.1
+main: MrDinoDuck\Scoreboard\Main
+api: 3.11.4
+...

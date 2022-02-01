@@ -1,0 +1,8 @@
+---
+name: NGVS_SucManh
+author: NQC
+api:
+- 3.0.0
+version: 1.0
+main: SM\Main
+...

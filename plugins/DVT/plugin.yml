@@ -1,0 +1,27 @@
+name: DanhViThuUI
+main: AVT\Main
+version: 1.0.0
+api: [3.0.0,4.0.0]
+description: Hệ thống săn vĩ thú UI
+
+commands:
+  dvt1卍卐:
+    description: Không gì cả
+  dvt2卍卐:
+    description: Không gì cả
+  dvt3卍卐:
+    description: Không gì cả
+  dvt4卍卐:
+    description: Không gì cả
+  dvt5卍卐:
+    description: Không gì cả
+  dvt6卍卐:
+    description: Không gì cả
+  dvt7卍卐:
+    description: Không gì cả
+  dvt8卍卐:
+    description: Không gì cả
+  dvt9卍卐:
+    description: Không gì cả
+  dvt10卍卐:
+    description: Không gì cả

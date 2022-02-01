@@ -1,0 +1,10 @@
+name: MenuVT
+main: SVT\Main
+version: 1.0.0
+author: NguyenDongQuy
+api: 3.0.0
+description: Hệ thống Vĩ Thú
+commands:
+ vithu:
+  description: "Hệ thống Vĩ Thú"
+  default: true

@@ -1,0 +1,7 @@
+---
+pvp: false
+bancmds:
+  /konoha: /konoha
+  /pvp: /pvp
+protect: lock
+...

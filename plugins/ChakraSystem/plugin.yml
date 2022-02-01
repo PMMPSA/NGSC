@@ -1,0 +1,6 @@
+name: NGVS_Mana
+main: NGVS\NGVS_Mana\Main
+version: 1.0.0
+author: NguyenDongQuy
+api: 3.0.0
+description: Hệ thống Mana

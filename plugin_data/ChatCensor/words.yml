@@ -1,0 +1,7 @@
+---
+warzone:
+  delete-message: false
+  enable-replace: true
+  replace-word: '***'
+  commands: []
+...

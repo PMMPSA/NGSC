@@ -1,0 +1,9 @@
+---
+name: KeepInventory
+version: "1.0"
+api:
+- 3.0.0
+author: RichHaoGaming
+description: Keep player's inventory after player death
+main: KhoaGamingPro\KeepInventory\Main
+...

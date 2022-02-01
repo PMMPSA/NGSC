@@ -1,0 +1,9 @@
+name: Nap_QidaCoin
+version: 1.0
+api: 3.0.0
+author: NguyenDongQuy
+main: NapThe\Main
+commands:
+ qidacoin: 
+  description: Hệ thống nạp QidaCoin
+  default: true

@@ -1,0 +1,12 @@
+# Config file for TimeCommander by LDX;
+
+# List of commands for the plugin to execute at the given times;
+# Command: Command to execute;
+# Time: Amount of time in minutes between command executions;
+Commands:
+  - Command: clearlag
+    Time: 5
+  - Command: say §aQuái đã tự động spawn.
+    Time: 15
+  - Command: boss spawn-all
+    Time: 15

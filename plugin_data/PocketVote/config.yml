@@ -1,0 +1,10 @@
+---
+version: 7
+identity: ""
+secret: ""
+lock: false
+vote-expiration: 7
+opt-out-usage: false
+onvote: []
+votes: []
+...

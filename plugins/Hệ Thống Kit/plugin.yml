@@ -1,0 +1,10 @@
+name: HTHONGKIT
+main: HTK\Main
+version: 1.0.0
+author: NguyenDongQuy
+api: 3.0.0
+description: Hệ thống Kit
+commands:
+ kit:
+  description: "Hệ thống Kit"
+  default: true

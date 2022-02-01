@@ -1,0 +1,14 @@
+name: HubLobbySpawn
+main: LousWiteMC\HubLobbySpawn
+version: 1.0
+api: 3.0.0
+author: LousWiteMC
+commands:
+ hub:
+  description: Teleport to default spawn
+ lobby:
+  description: Teleport to default spawn
+ spawn:
+  description: Teleport to defalt spawn
+ city⛄:
+  description: Trở về thực tại

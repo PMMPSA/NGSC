@@ -1,0 +1,9 @@
+name: EventUI
+version: 1.0.0
+main: EventUI\Main
+api: [3.18.0]
+author: RichHaoGaming
+
+commands:
+  event:
+    description: "Xem các Event của máy chủ!"

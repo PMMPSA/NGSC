@@ -1,0 +1,56 @@
+---
+name: PackGift
+author: NguyenDongQuy
+api:
+- 3.0.0
+version: 1.0
+main: PGC\Main
+commands:
+ tanthu卍卐:
+  description: ""
+ top1lv卍卐:
+  description: ""
+ top2lv卍卐:
+  description: "" 
+ top3lv卍卐:
+  description: ""
+ top1cp卍卐:
+  description: ""
+ top2cp卍卐:
+  description: ""
+ top3cp卍卐:
+  description: ""
+ top1nap卍卐:
+  description: ""
+ top2nap卍卐:
+  description: ""
+ top3nap卍卐:
+  description: ""
+ share卍卐:
+  description: ""
+ thuat卍卐:
+  description: ""
+ thanhpho:
+  description: "Khu Vực City Để Xây Nhà"
+ anbu:
+  description: "Khu Vực Fram Anbu"
+  default: true
+ akatsuki:
+  description: "Đánh Akatsuki"
+  default: true
+ genin:
+  description: "Khu Vực Fram Genin"
+ top1sm卍卐:
+  description: ""
+ exp卍卐:
+  description: ""
+ vt卍卐:
+  description: ""
+  #default: true
+ q4卍卐:
+  description: ""
+ # default: true
+ ngsc卍卐:
+  description: ""
+  #default: true
+...

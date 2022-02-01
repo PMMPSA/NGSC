@@ -1,0 +1,38 @@
+---
+# BedrockClans - (C) 2019 - 2020 Wertzui123
+
+version: 2.0
+
+# Banned clan names
+banned_clan_names: 
+ - Hacker
+ - Owner
+ - Admin
+ - Support Team
+ - Supporter
+ - Nazi
+ - Team
+ - Server
+ - Clan
+
+# Clan chat format
+clan_chat_format: "§bGiatoc §c> §a{name} §c: §r{message}"
+
+# Should  /clan create cost money? (EconomyAPI)
+create_costs: false
+
+# How much money it should cost to create a clan when create_costs is enabled.
+clan_create_costs: 100
+
+# How many seconds an invite is valid
+expire_time: 30
+
+# Whether /clan chat should be disabled or not
+chat_disabled: false
+
+# Command
+command: clan
+description: Create, delete and manage clans
+usage: "§cUsage: /clan <help/subcommand>"
+aliases: ['clans']
+...
